@@ -1,0 +1,52 @@
+commit 36ffecb17b2f67915b2cc2be5a22c396eba6d066
+Merge: b2e5449 9ec26cb
+Author: FLung13 <lungfredy@gmail.com>
+Date:   Fri Jan 30 13:34:25 2026 -0800
+
+    Fixed merge conflicts
+
+commit 9ec26cbe7cdc8fd4b3a5c76e12617c4796eef36d
+Author: FLung13 <lungfredy@gmail.com>
+Date:   Fri Jan 30 13:22:00 2026 -0800
+
+    Added favorite game to index.html
+
+commit b2e5449845217508ad5be158b00c384d48c37055
+Author: FLung13 <lungfredy@gmail.com>
+Date:   Fri Jan 30 13:18:32 2026 -0800
+
+    Added favorite food to index.html
+
+commit b81ce6f2483a9acc07b98fcc1e655297514352a5
+Merge: 06dc257 364043c
+Author: FLung13 <lungfredy@gmail.com>
+Date:   Fri Jan 30 13:06:49 2026 -0800
+
+    Merge branch 'main' of https://github.com/FLung13/CS3338-second-project
+
+commit 06dc25724fe738086fa84111c83ce4c94009a54f
+Author: FLung13 <lungfredy@gmail.com>
+Date:   Fri Jan 30 13:03:23 2026 -0800
+
+    Added README
+
+commit 364043ce3798867fd5f5b78148a41b7e8f2223ba
+Merge: 1d2bfc0 830e47b
+Author: Fredy Lung <lungfredy@gmail.com>
+Date:   Fri Jan 30 12:59:09 2026 -0800
+
+    Merge pull request #1 from FLung13/info-fill
+    
+    Answered questions on index.html
+
+commit 830e47b27bb32afcc75dfe63fbcab97669f07aad
+Author: FLung13 <lungfredy@gmail.com>
+Date:   Fri Jan 30 12:48:49 2026 -0800
+
+    Answered questions on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
